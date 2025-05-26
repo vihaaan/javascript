@@ -47,4 +47,17 @@ let value = 3
 //console.log("1" + 2 + 2)
 
 //console.log(1 + 2 + "2"
-console.log(true);
+//console.log(true);
+
+let gameCounter = 100
+++gameCounter
+console.log(gameCounter);
+
+
+//*-*****************MEMORY***************************//2
+
+let myYoutubechanelname = "spacecobra"
+
+let anotherchanelname = myYoutubechanelname
+
+console.log(anotherchanelname);
